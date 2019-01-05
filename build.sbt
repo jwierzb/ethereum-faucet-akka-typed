@@ -22,7 +22,6 @@ libraryDependencies ++= Seq(
   "org.mockito" % "mockito-all" % "1.9.5" % Test,
   "com.typesafe.akka" %% "akka-actor-typed" % "2.5.19",
   "com.typesafe.akka" %% "akka-actor-testkit-typed" % "2.5.19" % Test,
-  "org.scalamock" %% "scalamock" % "4.1.0" % Test,
   "org.scalatest" %% "scalatest" % "3.0.4" % Test
 
 
